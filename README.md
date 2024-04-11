@@ -9,9 +9,10 @@ Usage:
 4. View the output to see the selected winners.
 
 Additional Features:
-
+--------------------------
 Customize Animation and Background: Modify the animation and background images within the notebook to tailor the raffle for various occasions, such as Christmas gift raffles or other themed events.
-Main Task: The primary function of the script is to randomly assign tasks to participants, ensuring fairness and excitement in the raffle process.
+
+Run in Colab: The script can be executed in Google Colab to run the animations, providing a seamless way to visualize the raffle process. This also allows for easy sharing and collaboration with others online.
 
 License:
 This project is licensed under the GNU General Public License (GPL). See the LICENSE file for details.
