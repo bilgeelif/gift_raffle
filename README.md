@@ -13,6 +13,9 @@ Additional Features:
 Customize Animation and Background: Modify the animation and background images within the notebook to tailor the raffle for various occasions, such as Christmas gift raffles or other themed events.
 Main Task: The primary function of the script is to randomly assign tasks to participants, ensuring fairness and excitement in the raffle process.
 
+License:
+This project is licensed under the GNU General Public License (GPL). See the LICENSE file for details.
+
 Disclaimer:
 This script is intended for entertainment purposes only. It should not be used for real raffle events involving prizes, as it is designed purely for fun and simulation purposes.
 
